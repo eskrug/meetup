@@ -17,5 +17,10 @@ http://onoffmix.com/event/95434
 - 이윤미 - [Elastic Cloud Enterprise 소개 with elasticOn 참여후기](https://drive.google.com/open?id=0ByqsUCpttxAGd2MybG11NzQ5N00)
 - 김종민 - Elastic Stack Product Updates (Keynote 슬라이드에 포함)
 
+## 사전 설문
+총 87 응답
+
+![](001.png) ![](002.png) ![](003.png) ![](004.png) 
+
 ## 발표 영상
 https://youtu.be/A0fFCOtyctw
