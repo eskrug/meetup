@@ -18,4 +18,4 @@ http://onoffmix.com/event/95434
 - 김종민 - Elastic Stack Product Updates (Keynote 슬라이드에 포함)
 
 ## 발표 영상
-<iframe width="640" height="360" src="https://www.youtube.com/embed/A0fFCOtyctw" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/A0fFCOtyctw
