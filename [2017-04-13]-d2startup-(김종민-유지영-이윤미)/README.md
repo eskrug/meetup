@@ -25,4 +25,4 @@ http://onoffmix.com/event/95434
 ## 발표 영상
 
 [![](youtube-img.jpg)](https://youtu.be/A0fFCOtyctw)
-
+https://youtu.be/A0fFCOtyctw
