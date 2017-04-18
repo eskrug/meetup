@@ -23,4 +23,6 @@ http://onoffmix.com/event/95434
 ![](001.png) ![](002.png) ![](003.png) ![](004.png) 
 
 ## 발표 영상
-https://youtu.be/A0fFCOtyctw
+
+[![](youtube-img.jpg)](https://youtu.be/A0fFCOtyctw)
+
