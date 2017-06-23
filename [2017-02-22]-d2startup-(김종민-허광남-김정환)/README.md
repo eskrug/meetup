@@ -12,10 +12,10 @@ http://onoffmix.com/event/90317
 - 참석 : 130명
 
 ## 발표 (발표자료는 각 제목에 링크되어 있음.)
-- 김종민 - [Elastic Stack Overview](http://kimjmin.net/2017/03/2017-02-seoul-meetup/Elastic-Stack-Overview.pdf)
-- 허광남 - [커뮤니티 로그 데이터 활용](http://kimjmin.net/2017/03/2017-02-seoul-meetup/ELK-on-OKKY-HeoKN.pdf)
-- 김정환 - [시스템 운영 아키텍쳐, Logstash 설정과 트러블 슈팅](http://kimjmin.net/2017/03/2017-02-seoul-meetup/elasticsearch-in-nbt.pdf)
-- 김종민 - [Elastic 시작하기 & 커뮤니티 운영 방안](http://kimjmin.net/2017/03/2017-02-seoul-meetup/community-plan.pdf)
+- 김종민 - [Elastic Stack Overview](https://s3.ap-northeast-2.amazonaws.com/kr.elastic.co/meetups/20170222/Elastic-Stack-Overview.pdf)
+- 허광남 - [커뮤니티 로그 데이터 활용](https://s3.ap-northeast-2.amazonaws.com/kr.elastic.co/meetups/20170222/ELK-on-OKKY-HeoKN.pdf)
+- 김정환 - [시스템 운영 아키텍쳐, Logstash 설정과 트러블 슈팅](https://s3.ap-northeast-2.amazonaws.com/kr.elastic.co/meetups/20170222/elasticsearch-in-nbt.pdf)
+- 김종민 - [Elastic 시작하기 & 커뮤니티 운영 방안](https://s3.ap-northeast-2.amazonaws.com/kr.elastic.co/meetups/20170222/community-plan.pdf)
 
 ## 사전 설문
 총 137 응답 (일부 중복 답변 있음)
