@@ -1,5 +1,5 @@
 ## 날짜
-2017년 4월 13일
+2017년 6월 22일
 
 ## 장소
 [네이버 D2 스타트업 팩토리](http://www.d2startup.com/) - 서울특별시 강남구 강남대로 382 메리츠타워 16층
@@ -8,7 +8,7 @@
 http://onoffmix.com/event/101650
 
 ## 참석인원
-- 등록 : 240명 (onoffmix 참여, 대기자 기준)
+- 등록 : 240명 (onoffmix 참여 + 대기자)
 - 참석 : 120명
 
 ## 발표 (발표자료는 각 제목에 링크되어 있음.)
@@ -23,6 +23,5 @@ http://onoffmix.com/event/101650
 ![](001.jpg) ![](002.jpg) ![](003.jpg) 
 
 ## 발표 영상
-
 [![](youtube-img.png)](https://youtu.be/Mc9gy-5d60w)
 https://youtu.be/Mc9gy-5d60w
